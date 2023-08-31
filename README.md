@@ -1,4 +1,6 @@
-# Shin Pokémon Red, Blue, Green, Red-JP, & Blue-JP
+# Fork of Shin Pokémon Red, Blue, Green, Red-JP, & Blue-JP
+
+Fork to provide free rare candies on PokeMarts
 
 Version 1.23
 
